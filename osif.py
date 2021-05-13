@@ -73,14 +73,14 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Debby Anggraini 'CiKu370'
+    Author     Reynaldy Zanuar Ramadhan '®SecxXx.iĐ'
     Name       OSIF 'Open Source Information Facebook'
-    CodeName   D3b2y
+    CodeName   ®SecxXx.iĐ
     version    full version
     Date       16/05/2018 09:35:12
-    Team       Blackhole Security
-    Email      xnver404@gmail.com
-    Telegram   @CiKu370
+    Team       INĐØNESIA SYNĐICATE
+    Email      RsecxXx@gmail.com
+    Telegram   @RSecxXx
 
 * if you find any errors or problems , please contact
   author
@@ -486,7 +486,7 @@ def menu_reaction_ask():
   try:
 	global type
 
-	cek = raw_input(R + 'D3b2y' + W + '/' + R + 'Bot' + W + '/' + R + 'Reaction' + W + ' >> ')
+	cek = raw_input(R + '®SecxXx.iĐ' + W + '/' + R + 'Bot' + W + '/' + R + 'Reaction' + W + ' >> ')
 
 	if cek in ['1','01']:
 		type = 'LIKE'
@@ -568,7 +568,7 @@ def bot():
   try:
 	global type , message , id , WT , token
 
-	cek = raw_input(R + 'D3b2y' + W +'/' + R +'Bot ' + W + '>> ')
+	cek = raw_input(R + '®SecxXx.iĐ' + W +'/' + R +'Bot ' + W + '>> ')
 
 	if cek in ['1','01']:
 		menu_reaction()
@@ -921,7 +921,7 @@ def main():
   global target_id
 
   try:
-	cek = raw_input(R + 'D3b2y' + W +' >> ')
+	cek = raw_input(R + '®SecxXx.iD' + W +' >> ')
 
 	if cek.lower() == 'get_data':
 		if len(jml) == 0:
